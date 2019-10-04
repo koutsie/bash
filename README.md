@@ -2,7 +2,7 @@
 Scripts for **Snooppa** etc
 
 
-Note to myself: im now adding some small network scanning stuff (aka; snooppa), depencies i guess:
+Note to self: I'm now adding some small network scanning stuff (aka 'snooppa'); dependencies I guess:
 - GNU MAC Changer
 - Ifconfig
 - BASH 4.4+
